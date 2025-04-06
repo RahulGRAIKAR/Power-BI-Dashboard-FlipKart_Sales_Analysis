@@ -65,3 +65,7 @@ Solved by: Mapping sales performance across regions and linking with preferred p
 
 Solved by: Showing how much revenue is coming from each payment method, helping optimize payment gateway partnerships.
 
+PowerBI Dashboard:https://github.com/RahulGRAIKAR/Power-BI-Dashboard-FlipKart_Sales_Analysis/blob/main/Power-BI%20Dashboard_Flipcart_sales_Analysis.pbix
+
+Dashboard Image:https://github.com/RahulGRAIKAR/Power-BI-Dashboard-FlipKart_Sales_Analysis/blob/main/FlipKart%20Dashboard.PNG
+
